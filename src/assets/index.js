@@ -1,0 +1,1 @@
+// export const poster01 = require("./images/poster01.png");
